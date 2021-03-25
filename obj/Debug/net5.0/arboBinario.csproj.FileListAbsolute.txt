@@ -1,0 +1,16 @@
+/home/wilsonmunoz/Escritorio/project/arboBinario/bin/Debug/net5.0/arboBinario
+/home/wilsonmunoz/Escritorio/project/arboBinario/bin/Debug/net5.0/arboBinario.deps.json
+/home/wilsonmunoz/Escritorio/project/arboBinario/bin/Debug/net5.0/arboBinario.runtimeconfig.json
+/home/wilsonmunoz/Escritorio/project/arboBinario/bin/Debug/net5.0/arboBinario.runtimeconfig.dev.json
+/home/wilsonmunoz/Escritorio/project/arboBinario/bin/Debug/net5.0/arboBinario.dll
+/home/wilsonmunoz/Escritorio/project/arboBinario/bin/Debug/net5.0/ref/arboBinario.dll
+/home/wilsonmunoz/Escritorio/project/arboBinario/bin/Debug/net5.0/arboBinario.pdb
+/home/wilsonmunoz/Escritorio/project/arboBinario/obj/Debug/net5.0/arboBinario.csprojAssemblyReference.cache
+/home/wilsonmunoz/Escritorio/project/arboBinario/obj/Debug/net5.0/arboBinario.GeneratedMSBuildEditorConfig.editorconfig
+/home/wilsonmunoz/Escritorio/project/arboBinario/obj/Debug/net5.0/arboBinario.AssemblyInfoInputs.cache
+/home/wilsonmunoz/Escritorio/project/arboBinario/obj/Debug/net5.0/arboBinario.AssemblyInfo.cs
+/home/wilsonmunoz/Escritorio/project/arboBinario/obj/Debug/net5.0/arboBinario.csproj.CoreCompileInputs.cache
+/home/wilsonmunoz/Escritorio/project/arboBinario/obj/Debug/net5.0/arboBinario.dll
+/home/wilsonmunoz/Escritorio/project/arboBinario/obj/Debug/net5.0/ref/arboBinario.dll
+/home/wilsonmunoz/Escritorio/project/arboBinario/obj/Debug/net5.0/arboBinario.pdb
+/home/wilsonmunoz/Escritorio/project/arboBinario/obj/Debug/net5.0/arboBinario.genruntimeconfig.cache
